@@ -18,7 +18,7 @@ const Trang = () => {
 
     return (
         <>
-            <h2 className="head-text"> Hãy cứ <span> Khát Khao </span> <br /> Hãy cứ <span> Dại Khờ </span>
+            <h2 className="head-text"> Các <span>Nghiệp Vụ</span> Của Mình Trong <span>Công Ty</span>
             </h2>
 
             <div className="app__profiles">
